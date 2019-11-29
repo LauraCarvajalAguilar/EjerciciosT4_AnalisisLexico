@@ -1,0 +1,12 @@
+*PROBLEMAS DE MATEMATICAS*
+
+Ejercicio 1)
+En tu móvil tienes un lista de reproducción de música con 5 canciones. La primera dura 3.25 minutos, 
+la segunda 4.04 minutos, la tercera 2.8 minutos, la cuarta 5.02 minutos y la quinta 3 minutos exactos.
+¿Cuánto durará la lista completa?
+Respuesta = 3.25 + 4.04 + 2.8 + 5.02 + 3 es igual a 18.31 minutos
+
+Ejercicio 2)
+La casa de tus abuelos tiene dos plantas y un ático. La planta baja mide 3.55 metros de altura y la primera
+planta 3.3 metros. Si la altura total de la casa es de 9.88 metros, ¿cuál es la altura del ático?
+Respuesta = 3.55 + 3.3 = 6.85, 9.88 - 6.85 es igual a 3.03 metros, el cual es la altura del ático
